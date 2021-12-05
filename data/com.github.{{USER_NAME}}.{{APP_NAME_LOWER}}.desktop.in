@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name={{APP_NAME}}
+Comment=
+GenericName=
+Exec=com.github.{{USER_NAME}}.{{APP_NAME_LOWER}}
+Icon=com.github.{{USER_NAME}}.{{APP_NAME_LOWER}} %U
+Terminal=false
+Categories=
+Keywords=

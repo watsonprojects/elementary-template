@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 {{LEGAL_NAME}} <{{LEGAL_EMAIL}}> -->
+<component type="desktop">
+  <id>com.github.{{USER_NAME}}.{{APP_NAME_LOWER}}</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>{{APP_NAME}}</name>
+  <summary></summary>
+  <description>
+    <p></p>
+  </description>
+  <provides>
+    <binary>com.github.{{USER_NAME}}.{{APP_NAME_LOWER}}</binary>
+  </provides>
+  <developer_name>{{LEGAL_NAME}}</developer_name>
+  <url type="homepage">https://github.com/{{USER_NAME}}/{{APP_NAME_LOWER}}</url>
+  <url type="bugtracker">https://github.com/{{USER_NAME}}/{{APP_NAME_LOWER}}/issues</url>
+  <url type="help">https://github.com/{{USER_NAME}}/{{APP_NAME_LOWER}}/issues</url>
+  <screenshots>
+    <screenshot type="default">
+      <image></image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1">
+  </content_rating>
+  <releases>
+    <release version="0.0.1" date="">
+      <description>
+        <p>Initial Release</p>
+      </description>
+    </release>
+  </releases>
+</component>
